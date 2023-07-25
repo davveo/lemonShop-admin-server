@@ -1,7 +1,7 @@
 package conf
 
 import (
-	"github.com/davveo/lemonShop-core/pkg/config"
+	"github.com/davveo/lemonShop-framework/config"
 	"os"
 )
 

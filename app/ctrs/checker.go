@@ -1,8 +1,8 @@
 package ctrs
 
 import (
-	"github.com/davveo/lemonShop-core/pkg/cache"
-	"github.com/davveo/lemonShop-core/pkg/reply"
+	"github.com/davveo/lemonShop-framework/cache"
+	"github.com/davveo/lemonShop-framework/reply"
 	"github.com/gin-gonic/gin"
 )
 

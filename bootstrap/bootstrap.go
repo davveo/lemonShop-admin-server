@@ -3,9 +3,9 @@ package bootstrap
 import (
 	"github.com/davveo/lemonShop-admin-server/app"
 	"github.com/davveo/lemonShop-admin-server/conf"
-	"github.com/davveo/lemonShop-core/pkg/cache"
-	"github.com/davveo/lemonShop-core/pkg/db"
-	"github.com/davveo/lemonShop-core/pkg/logger"
+	"github.com/davveo/lemonShop-framework/cache"
+	"github.com/davveo/lemonShop-framework/db"
+	"github.com/davveo/lemonShop-framework/logger"
 )
 
 func Bootstrap() {
